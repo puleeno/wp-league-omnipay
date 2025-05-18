@@ -1,0 +1,17 @@
+{
+    "name": "puleeno/wp-league-omnipay",
+    "description": "Implementing a payment system for WordPress using The League Omnipay",
+    "autoload": {
+        "psr-4": {
+            "Puleeno\\Omnipay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
